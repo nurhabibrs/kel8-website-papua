@@ -73,6 +73,18 @@ header h1 span:hover {
   background-attachment: fixed;
 }
 
+.identitas-papua {
+  padding-top: 1em;
+  padding-bottom: .25em;
+  align-items: center;
+  text-align: center;
+  background-color: #f2f3f6;
+}
+
+.lambang-prov{
+  align-items: center;
+}
+
 /* my skills section */
 .skills ul {
   align-items: center;
@@ -173,7 +185,7 @@ font-family:"Nunito";
 font-style:italic;
 color: #555555;
 padding:1.2em 30px 1.2em 75px;
-border-left:8px solid #78C0A8 ;
+border-left:8px solid #7894c0 ;
 line-height:1.6;
 position: relative;
 background:#EDEDED;
@@ -182,7 +194,7 @@ background:#EDEDED;
 .otro-blockquote::before{
 font-family:Arial;
 content: "\201C";
-color:#78C0A8;
+color:#000000;
 font-size:4em;
 position: absolute;
 left: 10px;
