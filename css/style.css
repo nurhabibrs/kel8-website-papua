@@ -85,6 +85,40 @@ header h1 span:hover {
   align-items: center;
 }
 
+.visiMisi-container h2{
+  display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  font-size: 35pt;
+  margin-top:1em;
+}
+
+.visiMisi-container p{
+  font-size: 1.4em;
+  width:60%;
+  margin:-10px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 30px 1.2em 75px;
+  line-height:1.6;
+  position: relative;
+  text-align: center;
+}
+
+.visiMisi-container li{
+      font-size: 1.4em;
+      width:60%;
+      margin:0px auto;
+      font-family:Open Sans;
+      /* font-style:italic; */
+      color: #555555;
+      padding:0.3em 15px 0.3em;
+      position: relative; 
+}
+
 /* my skills section */
 .skills ul {
   align-items: center;
