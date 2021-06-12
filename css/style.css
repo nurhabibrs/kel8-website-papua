@@ -39,13 +39,14 @@ nav li {
 
 nav a {
   color: darkblue;
+  background-color: white;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 nav a:hover {
-  color: deepskyblue;
-  text-decoration: line-through;
+  background-color: darkblue;
+  color: white;
 }
 
 /* header section */
