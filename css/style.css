@@ -86,6 +86,13 @@ header h1 span:hover {
   align-items: center;
 }
 
+.infografis-papua {
+  padding-top: 1em;
+  padding-bottom: 6em;
+  align-items: center;
+  text-align: center;
+  background-color: #f2f3f6;
+}
 .visiMisi-container h2{
   display:block;
   color:#333333;
