@@ -93,6 +93,13 @@ header h1 span:hover {
   background-color: #f2f3f6;
 }
 
+.pariwisataPapua {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin:  20px 20% 0px 20%
+}
+
 .visiMisi-container h2{
   display:block;
   color:#333333;
