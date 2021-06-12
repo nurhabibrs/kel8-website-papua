@@ -282,3 +282,7 @@ margin-top:1em;
   margin: 0em 20em;
   border-radius: 5%;
 }
+footer {
+  background-color: black;
+  color: white;
+}
