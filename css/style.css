@@ -36,21 +36,22 @@ nav li {
 }
 
 nav a {
+  background-color: white;
   color: darkblue;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 nav a:hover {
-  color: deepskyblue;
-  text-decoration: line-through;
+  background-color: darkblue;
+  color: white;
 }
 
 /* header section */
 header {
   background: linear-gradient(180deg, rgb(255, 255, 255), rgb(205, 237, 254));
   font-size: 25px;
-  padding: 15% 10%;
+  padding: 10% 10%;
 }
 
 header h1 span {
@@ -85,6 +86,13 @@ header h1 span:hover {
   align-items: center;
 }
 
+.infografis-papua {
+  padding-top: 1em;
+  padding-bottom: 6em;
+  align-items: center;
+  text-align: center;
+  background-color: #f2f3f6;
+}
 .visiMisi-container h2{
   display:block;
   color:#333333;
@@ -151,7 +159,17 @@ header h1 span:hover {
 }
 
 .work-items img {
-  margin-bottom: 30px;
+  margin-bottom: 5px;
+  margin-top: 80px;
+}
+/* .bdy {
+  width: 650px;
+  height: 400px;
+} */
+.pic {
+  width: 800px;
+  height: 400px;
+  border-radius: 15px;
 }
 
 /* footer */
