@@ -159,7 +159,17 @@ header h1 span:hover {
 }
 
 .work-items img {
-  margin-bottom: 30px;
+  margin-bottom: 5px;
+  margin-top: 80px;
+}
+/* .bdy {
+  width: 650px;
+  height: 400px;
+} */
+.pic {
+  width: 800px;
+  height: 400px;
+  border-radius: 15px;
 }
 
 /* footer */
