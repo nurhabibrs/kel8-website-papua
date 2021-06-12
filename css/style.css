@@ -268,12 +268,11 @@ margin-top:1em;
     font-size: 35pt;
 }
 
-.geografis-container P{
+.geografis-container p{
   margin: 3em 6em;
 }
 
 .geografis-container h4{
-  /* padding:0.3em 0.5em 0.3em; */
   font-weight: bold;
   margin: 0em 6em 3em 6em;
 }
@@ -281,4 +280,26 @@ margin-top:1em;
 .geografis-container img{
   margin: 0em 20em;
   border-radius: 5%;
+}
+
+.galeri-container h2{
+  text-align: center;
+  margin: 30px 20px -10px 20px;
+}
+
+.galeri-container  img{
+  border-radius: 0%;
+  display: inline-block;
+  width: 35%;
+}
+
+.galeri-container .g1, .g3{
+  margin-left: 120px;
+  margin-right: 150px;
+  margin-top: 50px;
+}
+
+.galeri-container .g2, .g4{
+  align-items: right;
+  margin-top: 20px;
 }
