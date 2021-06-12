@@ -95,6 +95,13 @@ header h1 span:hover {
   background-color: #f2f3f6;
 }
 
+.pariwisataPapua {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin:  20px 20% 0px 20%
+}
+
 .visiMisi-container h2{
   display:block;
   color:#333333;
@@ -279,6 +286,19 @@ margin-top:1em;
   margin: 0em 6em 3em 6em;
 }
 
+<<<<<<< HEAD
+=======
+.geografis-container img{
+  margin: 0em 20em;
+  border-radius: 5%;
+}
+
+.galeri-container h2{
+  text-align: center;
+  margin: 30px 20px -10px 20px;
+}
+
+>>>>>>> 63ecc4b3a456b14b34752847eb694341eb16bd42
 .galeri-container  img{
   border-radius: 0%;
   display: inline-block;
@@ -295,6 +315,7 @@ margin-top:1em;
   align-items: right;
   margin-top: 20px;
 }
+<<<<<<< HEAD
 
 .geografis-container img{
   margin: 0 20em;
@@ -309,3 +330,9 @@ margin-top:1em;
 
 
 
+=======
+footer {
+  background-color: black;
+  color: white;
+}
+>>>>>>> 63ecc4b3a456b14b34752847eb694341eb16bd42
