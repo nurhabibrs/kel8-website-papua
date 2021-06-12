@@ -8,11 +8,12 @@ body {
 }
 
 img {
-  border-radius: 50%;
+  border-radius: 20%;
 }
 
 h1 {
   font-size: 50px;
+  text-align: center;
 }
 
 h2 {
@@ -22,6 +23,7 @@ h2 {
 /* nav bar */
 nav {
   background-color: white;
+  margin-top: 10px !important;
 }
 
 nav ul {
@@ -33,7 +35,6 @@ nav ul {
 
 nav li {
   padding: 10px 10px;
-  margin-top: 10px !important;
 }
 
 nav a {
@@ -64,10 +65,6 @@ header h1 span {
 
 header h1 span:hover {
   color: palevioletred;
-}
-
-h1{
-  align-items: center;
 }
 
 /* about me section */
