@@ -92,7 +92,7 @@ header h1 span:hover {
   font-weight: bold;
   text-align: center;
   font-size: 35pt;
-  margin-top:1em;
+  margin-top:2em;
 }
 
 .visiMisi-container p{
@@ -245,4 +245,33 @@ color:#333333;
 font-style: normal;
 font-weight: bold;
 margin-top:1em;
+}
+
+.geografis-container h2{
+    display:block;
+    color:#333333;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35pt;
+}
+
+.geografis-container P{
+  margin: 3em 6em;
+}
+
+.geografis-container h4{
+  /* padding:0.3em 0.5em 0.3em; */
+  font-weight: bold;
+  margin: 0em 6em 3em 6em;
+}
+
+
+
+/* .geografis-container ol p{
+ margin: -3em auto; 
+} */
+
+.geografis-papua{
+  margin: 20px 0;
 }
