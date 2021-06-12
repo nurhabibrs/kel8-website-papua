@@ -85,6 +85,14 @@ header h1 span:hover {
   align-items: center;
 }
 
+.infografis-papua {
+  padding-top: 1em;
+  padding-bottom: .25em;
+  align-items: center;
+  text-align: center;
+  background-color: #f2f3f6;
+}
+
 .visiMisi-container h2{
   display:block;
   color:#333333;
@@ -153,7 +161,11 @@ header h1 span:hover {
 .work-items img {
   margin-bottom: 30px;
 }
-
+.pic {
+  width: 650px;
+  height: 400px;
+  border-radius: 15px;
+}
 /* footer */
 .social {
   display: flex;
