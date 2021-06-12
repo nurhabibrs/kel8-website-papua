@@ -39,14 +39,13 @@ nav li {
 
 nav a {
   color: darkblue;
-  background-color: white;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 nav a:hover {
-  background-color: darkblue;
-  color: white;
+  color: deepskyblue;
+  text-decoration: line-through;
 }
 
 /* header section */
@@ -287,8 +286,6 @@ margin-top:1em;
   margin: 0em 6em 3em 6em;
 }
 
-<<<<<<< HEAD
-=======
 .geografis-container img{
   margin: 0em 20em;
   border-radius: 5%;
@@ -299,7 +296,6 @@ margin-top:1em;
   margin: 30px 20px -10px 20px;
 }
 
->>>>>>> 63ecc4b3a456b14b34752847eb694341eb16bd42
 .galeri-container  img{
   border-radius: 0%;
   display: inline-block;
@@ -316,7 +312,6 @@ margin-top:1em;
   align-items: right;
   margin-top: 20px;
 }
-<<<<<<< HEAD
 
 .geografis-container img{
   margin: 0 20em;
@@ -328,12 +323,12 @@ margin-top:1em;
   text-align: center;
 }
 
+.galeri-container{
+  margin-bottom: 100px;
+}
 
 
-
-=======
 footer {
   background-color: black;
   color: white;
 }
->>>>>>> 63ecc4b3a456b14b34752847eb694341eb16bd42
