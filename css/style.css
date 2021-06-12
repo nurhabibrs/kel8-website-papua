@@ -324,9 +324,13 @@ margin-top:1em;
 }
 
 .galeri-container{
-  margin-bottom: 100px;
+  margin-bottom: 70px;
 }
 
+.galeri-container p{
+  text-align: center;
+  margin-top: 50px;
+}
 
 footer {
   background-color: black;
