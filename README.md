@@ -1,10 +1,8 @@
 # Basic HTML/CSS One Page Portfolio Template
 
 ----
-## What is this portfolio template?
-The [portfolio template](https://redacademy.github.io/html-css-design-template/) is designed to practice and explore basic HTML and CSS.
-
-The template is a guide meant for you to explore and change to ✨*make it your own*✨
+## You can access this link to view the project
+[Preview Website](https://nurhabibrs.github.io/kel8-website-papua/)
 
 
 
